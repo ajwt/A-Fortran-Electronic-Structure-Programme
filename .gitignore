@@ -2,3 +2,7 @@
 *sublime*
 *.mod
 *.o
+build/
+original_projects/
+els.x
+dat/
